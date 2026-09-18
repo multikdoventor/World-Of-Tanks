@@ -223,4 +223,4 @@ World of Tanks is available as a complete free version with all features and upd
 Don't miss out on the action! Download World of Tanks today and start your journey in tank warfare.
 
 ---
-**Last updated:** 2026-09-17 22:46:56 UTC
+**Last updated:** 2026-09-18 00:59:24 UTC
